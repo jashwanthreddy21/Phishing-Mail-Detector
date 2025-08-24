@@ -16,7 +16,7 @@ Built-in sample phishing and legitimate emails for testing
 100% client-side: just open in a browser
 
 # Live Demo
-Click [here](https://github.com/jashwanthreddy21/Phishing-Mail-Detector.git)
+Click [here](https://jashwanthreddy21.github.io/Phishing-Mail-Detector/)
 
 # 📂 Project Structure
 .

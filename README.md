@@ -27,7 +27,7 @@ Built-in sample phishing and legitimate emails for testing
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/phishing-email-detector.git
+git clone [https://github.com/your-username/phishing-email-detector.git](https://github.com/jashwanthreddy21/Phishing-Mail-Detector.git)
 cd phishing-email-detector
 
 2.Open the app in your browser:

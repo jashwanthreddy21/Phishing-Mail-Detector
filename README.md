@@ -23,7 +23,7 @@ Built-in sample phishing and legitimate emails for testing
 ├── script.js
 └── README.md         # Documentation
 
-#🖥️ Getting Started
+# 🖥️ Getting Started
 
 1.Clone the repository:
 
@@ -39,7 +39,7 @@ open index.html
 or just double-click index.html.
 No server required ✅
 
-#🧪 Testing with Sample Emails
+# 🧪 Testing with Sample Emails
 
 The app includes ready-made examples under “Sample Emails”:
 
@@ -51,7 +51,7 @@ The app includes ready-made examples under “Sample Emails”:
 
 ✅ GitHub Notification — legitimate security alert
 
-#📌 Use Cases
+# 📌 Use Cases
 
 1.Security awareness training
 2.Quick triage of suspicious emails
@@ -60,6 +60,6 @@ The app includes ready-made examples under “Sample Emails”:
 ⚠️ Note: This tool is for education and awareness only.
 It does not replace enterprise email security solutions (SEG, DMARC, SOC analysis).
 
-#📜 License
+# 📜 License
 
 MIT License — free to use and adapt.

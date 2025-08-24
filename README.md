@@ -15,6 +15,9 @@ Built-in sample phishing and legitimate emails for testing
 
 100% client-side: just open in a browser
 
+# Live Demo
+Click [here] ()
+
 # 📂 Project Structure
 .
 ├── index.html   # Main single-file app (HTML + JS + CSS)
